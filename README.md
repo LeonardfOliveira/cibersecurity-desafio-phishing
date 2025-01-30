@@ -21,3 +21,9 @@ Passo a Passo para Configuração no Kali Linux:
 
 ### Resutados
 ![Texto Alternativo](./Snapshots/VirtualBox_Kali%20Linux_30_01_2025_19_58_14.png)
+
+![Texto Alternativo](./Snapshots/VirtualBox_Kali%20Linux_30_01_2025_19_58_36.png)
+
+![Texto Alternativo](./Snapshots/VirtualBox_Kali%20Linux_30_01_2025_19_59_19.png)
+
+![Texto Alternativo](./Snapshots/VirtualBox_Kali%20Linux_30_01_2025_19_59_42.png
