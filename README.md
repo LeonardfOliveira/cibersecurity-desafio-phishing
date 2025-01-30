@@ -18,3 +18,7 @@ Passo a Passo para Configuração no Kali Linux:
 6️⃣ Clonagem de site: Utilize a opção "Site Cloner".  
 7️⃣ Identificando o IP da máquina:** Execute `ifconfig` para obter o endereço de rede.  
 8️⃣ URL alvo para clonagem: Insira `http://www.facebook.com` 
+
+### Resutados
+
+![Alt text](./Snapshots/VirtualBox_Kali Linux_30_01_2025_19_58_14.png" Optional title")
