@@ -1,9 +1,11 @@
 # Desafio - Criação de um Phishing com o Kali Linux - DIO 
 
-# Simulação de Phishing para Captura de Credenciais do Facebook  
+#### Simulação de Phishing para Captura de Credenciais do Facebook  
 
 Ferramentas Utilizadas: 
-🔹 Sistema Operacional: Kali Linux  
+<br>
+🔹 Sistema Operacional: Kali Linux 
+<br> 
 🔹 Software: setoolkit  
 
 Passo a Passo para Configuração no Kali Linux:
